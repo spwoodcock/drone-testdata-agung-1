@@ -6,6 +6,7 @@
 - A GeoJSON AOI of the area.
 - QGIS project to load and visually inspect.
 - Images geopackage, to display inside QGIS easily.
+- Image metadata CSV extracted via `exiftool`.
 
 ## Intentional Errors
 
