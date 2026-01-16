@@ -3,6 +3,7 @@
 ## Contents
 
 - Images of Mt Agung, Bali, Indonesia.
+- The images are intentionally separated as a test measure - **do not attempt to process in ODM**.
 - A GeoJSON AOI of the area.
 - QGIS project to load and visually inspect.
 - Images geopackage, to display inside QGIS easily.
