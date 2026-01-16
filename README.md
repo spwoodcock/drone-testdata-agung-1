@@ -1,5 +1,7 @@
 # Drone Test Data Mt Agung 1
 
+![aoi](./drone-testdata-agung-1-aoi.jpg)
+
 ## Contents
 
 - Images of Mt Agung, Bali, Indonesia.
@@ -16,5 +18,9 @@
   first removing these files.
 - Some have invalid EXIF, others blurry photos, or are simply black (indicating lens cap left on).
 - These files are denoted by `_ISSUE_WITH_FILE.JPG`.
+
+## Example Image
+
+![example](./drone-testdata-agung-1-example.jpg)
 
 All imagery is licensed as CC-BY-4.0.
