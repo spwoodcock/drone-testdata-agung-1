@@ -2,7 +2,7 @@
 
 ![aoi](./drone-testdata-agung-1-aoi.jpg)
 
-![aoi-map](./aoi.geojson)
+View the AOI on a map [here](./aoi.geojson).
 
 ## Contents
 
