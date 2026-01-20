@@ -2,6 +2,8 @@
 
 ![aoi](./drone-testdata-agung-1-aoi.jpg)
 
+![aoi-map](./aoi.geojson)
+
 ## Contents
 
 - Images of Mt Agung, Bali, Indonesia.
